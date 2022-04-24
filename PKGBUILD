@@ -3,7 +3,7 @@
 pkgname=viper4linux-gui
 pkgver=2.2.r15_cn1.1
 pkgrel=15
-pkgdesc="Official UI for Viper4Linux with Chinese Translate"
+pkgdesc="Official UI for Viper4Linux with testing Translate"
 arch=('x86_64')
 url="https://github.com/Hope2333/Viper4Linux-GUI-debug"
 license=('GPL3')
