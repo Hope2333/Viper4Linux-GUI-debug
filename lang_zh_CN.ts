@@ -1043,7 +1043,7 @@ This prevents GLava to switch to another audio sink, while V4L is restarting.</s
     <message>
         <location filename="../viper_window.ui" line="26"/>
         <source>Viper4Linux GUI</source>
-        <translation>蝰蛇音效 [ Viper4Linux GUI ]    翻译[v1.1pre]by幽零小喵</translation>
+        <translation>蝰蛇音效 [ Viper4Linux GUI ]</translation>
     </message>
     <message>
         <location filename="../viper_window.ui" line="95"/>
@@ -1109,7 +1109,7 @@ This prevents GLava to switch to another audio sink, while V4L is restarting.</s
     <message>
         <location filename="../viper_window.ui" line="291"/>
         <source>Tube Simulator</source>
-        <translation>电子管模拟器</translation>
+        <translation>电子管模拟器（6N1J）</translation>
     </message>
     <message>
         <location filename="../viper_window.ui" line="318"/>
@@ -1125,7 +1125,7 @@ This prevents GLava to switch to another audio sink, while V4L is restarting.</s
     <message>
         <location filename="../viper_window.ui" line="341"/>
         <source>Clarity Mode</source>
-        <translation>清晰模式</translation>
+        <translation>清晰处理模式</translation>
     </message>
     <message>
         <location filename="../viper_window.ui" line="369"/>
@@ -1144,7 +1144,7 @@ This prevents GLava to switch to another audio sink, while V4L is restarting.</s
     <message>
         <location filename="../viper_window.ui" line="386"/>
         <source>Clarity Level</source>
-        <translation>清晰度等级</translation>
+        <translation>清晰度</translation>
     </message>
     <message>
         <location filename="../viper_window.ui" line="418"/>
@@ -1161,7 +1161,7 @@ This prevents GLava to switch to another audio sink, while V4L is restarting.</s
         <location filename="../viper_window.ui" line="886"/>
         <location filename="../viper_window.ui" line="962"/>
         <source>Level</source>
-        <translation>级别</translation>
+        <translation>效果级别</translation>
     </message>
     <message>
         <location filename="../viper_window.ui" line="498"/>
@@ -1199,14 +1199,14 @@ This prevents GLava to switch to another audio sink, while V4L is restarting.</s
         <location filename="../viper_window.ui" line="629"/>
         <location filename="../viper_window.ui" line="2410"/>
         <source>Presets</source>
-        <translation>预设</translation>
+        <translation>设备种类预设</translation>
     </message>
     <message>
         <location filename="../viper_window.ui" line="637"/>
         <location filename="../viper_window.ui" line="2418"/>
         <location filename="../viper_window.ui" line="2772"/>
         <source>...</source>
-        <translation>...</translation>
+        <translation>               -=选择=-</translation>
     </message>
     <message>
         <location filename="../viper_window.ui" line="642"/>
@@ -1329,7 +1329,7 @@ This prevents GLava to switch to another audio sink, while V4L is restarting.</s
     <message>
         <location filename="../viper_window.ui" line="872"/>
         <source>Headphone Engine</source>
-        <translation>耳机引擎</translation>
+        <translation>VHS+</translation>
     </message>
     <message>
         <location filename="../viper_window.ui" line="942"/>
@@ -1345,7 +1345,7 @@ This prevents GLava to switch to another audio sink, while V4L is restarting.</s
     <message>
         <location filename="../viper_window.ui" line="1025"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; text-decoration: underline;&quot;&gt;Reverbation&lt;/span&gt;&lt;/p&gt;&lt;p&gt;It uses mathematical methods to simulate the environmental feeling sensation. For example, a song can be felt playing inside the auditorium, living room, bathroom, and so on.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Room Size:&lt;/span&gt; This value defines the virtual environment area size. The larger the value, the sound is wider and more echoes.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Room Width: &lt;/span&gt;This value defines the width of the room above, in meters. Assumed that the above room size is 100 square meters, here to set a width of 14 meters, then the length of the room will be 7.14 m. Therefore, the room size and width defines the aspect ratio of the virtual environment. The larger the value, the sound coming from both sides will felt more apparent.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Damping Factor:&lt;/span&gt; This value defines the humidity of air in the above virtual environment; the moisture vapor in the air will easily absorb the echoes. So the bigger this value, the fewer echoes heard.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Wet Signal:&lt;/span&gt; This value defines the volume of the simulated environment effect.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Dry Signal: &lt;/span&gt;This value defines the volume of the original sound.&lt;/p&gt;&lt;p&gt;For environments with low air humidity such as living room, auditorium, and other indoor environments, you can use room size and sound field to define the area of ​​the virtual environment, water vapor content values ​​from 0 to 20, the reverb signal values ​​20 to 50, the proportion of the original signal to take value of about 50.&lt;br/&gt;For environments with high air humidity such as bathroom and other indoor environments that contains a lot of moisture, you can use room size and sound field to define the area of ​​the virtual environment, water vapor content values ​​of 50 to 100, the reverb signal values ​​40 to 80, the proportion of the original signal value of about 50.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; text-decoration: underline;&quot;&gt;混响&lt;/span&gt;&lt;/p&gt;&lt;p&gt;使用数学方法模拟环境感觉的感觉。例如，可以感觉到在礼堂、客厅、浴室等场所播放歌曲。&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;房间大小：&lt;/span&gt; 这个value 定义了虚拟环境区域的大小。数值越大，声音越宽，回声越多。&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;房间宽度：&lt;/span&gt;这个值定义了上面房间的宽度，以米为单位。假设以上房间面积为100平方米，这里设置宽度为14米，那么房间长度为7.14米。因此，房间大小和宽度决定了虚拟环境的纵横比。数值越大，感觉两边发出的声音越明显。&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;阻尼系数：&lt;/span&gt; 这个数值定义了空气的湿度在上述虚拟环境中；空气中的水汽很容易吸收回波。所以这个值越大，听到的回声越少。&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Wet Signal:&lt;/span&gt;这个值定义了模拟环境效果的音量。&lt; /p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;干信号：&lt;/span&gt;此值定义原始声音的音量。&lt;/p&gt;&lt;p&gt;对于空气湿度较低的环境，例如作为客厅、礼堂等室内环境，可以根据房间大小和声场来定义虚拟环境的面积，水汽含量值从0到20，混响信号值从20到50 ，原始信号的比例取值约为50。&lt;br/&gt;对于空气湿度较高的环境，如浴室等室内湿度较大的环境，可以使用房间大小和声场来定义区域虚拟环境中，水汽含量值50~100，混响信号值40~80，占原始信号值的比例约为50。&lt;/p&gt;&lt;/body&gt;&lt;/html &gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; text-decoration: underline;&quot;&gt;混响&lt;/span&gt;&lt;/p&gt;&lt;p&gt;使用数学方法模拟环境感觉的感觉。例如，可以感觉到在礼堂、客厅、浴室等场所播放歌曲。&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;房间大小：&lt;/span&gt; 这个值定义了虚拟环境区域的大小。数值越大，声音越宽，回声越多。&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;声场大小：&lt;/span&gt;这个值定义了上面房间的宽度，以米为单位。假设以上房间面积为100平方米，这里设置宽度为14米，那么房间长度为7.14米。因此，房间大小和宽度决定了虚拟环境的纵横比。数值越大，感觉两边发出的声音越明显。&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;阻尼系数：&lt;/span&gt; 这个数值定义了空气的湿度在上述虚拟环境中；空气中的水汽很容易吸收回波。所以这个值越大，听到的回声越少。&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;湿信号（混响信号）：&lt;/span&gt;这个值定义了模拟环境效果的音量。&lt; /p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;干信号（原始信号）：&lt;/span&gt;此值定义原始声音的音量。&lt;/p&gt;&lt;p&gt;对于空气湿度较低的环境，例如作为客厅、礼堂等室内环境，可以根据房间大小和声场来定义虚拟环境的面积，水汽含量值从0到20，混响信号值从20到50 ，原始信号的比例取值约为50。&lt;br/&gt;对于空气湿度较高的环境，如浴室等室内湿度较大的环境，可以使用房间大小和声场来定义区域虚拟环境中，水汽含量值50~100，混响信号值40~80，占原始信号值的比例约为50。&lt;/p&gt;&lt;/body&gt;&lt;/html &gt;</translation>
     </message>
     <message>
         <location filename="../viper_window.ui" line="1028"/>
@@ -1360,12 +1360,12 @@ This prevents GLava to switch to another audio sink, while V4L is restarting.</s
     <message>
         <location filename="../viper_window.ui" line="1089"/>
         <source>Room Width</source>
-        <translation>房间宽度</translation>
+        <translation>声场大小</translation>
     </message>
     <message>
         <location filename="../viper_window.ui" line="1124"/>
         <source>Room Damp</source>
-        <translation>房间潮湿度</translation>
+        <translation>阻尼系数</translation>
     </message>
     <message>
         <location filename="../viper_window.ui" line="1164"/>
@@ -2299,7 +2299,7 @@ and try to restart it manually</source>
     <message>
         <location filename="../dialog/settings.ui" line="142"/>
         <source>Language</source>
-        <translation type="unfinished">Language（语言）</translation>
+        <translation>Language（语言）</translation>
     </message>
     <message>
         <location filename="../dialog/settings.ui" line="220"/>
@@ -2314,12 +2314,12 @@ and try to restart it manually</source>
     <message>
         <location filename="../dialog/settings.ui" line="259"/>
         <source>Mouse release</source>
-        <translation type="unfinished">每次鼠标更改</translation>
+        <translation>修改后立即反应</translation>
     </message>
     <message>
         <location filename="../dialog/settings.ui" line="272"/>
         <source>Instant</source>
-        <translation>马上</translation>
+        <translation>随时</translation>
     </message>
     <message>
         <location filename="../dialog/settings.ui" line="77"/>
@@ -2334,7 +2334,7 @@ and try to restart it manually</source>
     <message>
         <location filename="../dialog/settings.ui" line="82"/>
         <source>Convolver</source>
-        <translation>卷积器</translation>
+        <translation>卷积器（脉冲反馈处理）</translation>
     </message>
     <message>
         <location filename="../dialog/settings.ui" line="67"/>
@@ -2385,7 +2385,7 @@ and try to restart it manually</source>
     <message>
         <location filename="../dialog/settings.ui" line="286"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Do not enable unless absolutely neccessary!&lt;/span&gt;&lt;/p&gt;&lt;p&gt;It may cause unintended sideeffects and should solely be used for troubleshooting your GStreamer installation.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;除非绝对必要，否则不要启用！&lt;/span&gt;&lt;/p&gt;&lt;p&gt;它可能会导致意想不到的副作用并且只能用于 GStreamer 安装进行故障排除。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;请不要顺便启用！&lt;/span&gt;&lt;/p&gt;&lt;p&gt;用于对 GStreamer 安装进行故障排除，启用可能会导致出现严重问题。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../dialog/settings.ui" line="289"/>
@@ -2501,7 +2501,7 @@ and try to restart it manually</source>
     <message>
         <location filename="../dialog/settings.ui" line="730"/>
         <source>Systray not supported on this system</source>
-        <translation>此系统不支持系统托盘XP</translation>
+        <translation>此系统不支持系统托盘（XP</translation>
     </message>
     <message>
         <location filename="../dialog/settings.ui" line="761"/>
@@ -2607,7 +2607,7 @@ and try to restart it manually</source>
     <message>
         <location filename="../dialog/settings.ui" line="1076"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Recommended multiplication value: 0.15x&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;推荐乘法值：0.15倍&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;推荐乘法值：0.15倍&lt;/p&gt;中文翻译by幽零小喵[v1.2标准版]&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../dialog/settings.ui" line="1109"/>
